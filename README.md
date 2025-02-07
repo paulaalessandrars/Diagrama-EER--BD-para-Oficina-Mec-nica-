@@ -101,7 +101,7 @@ Este projeto apresenta um modelo conceitual de banco de dados para uma oficina m
 Após criar as tabelas e definir os relacionamentos, o modelo de banco de dados para a oficina mecânica estará completo. O diagrama EER criado no MySQL Workbench será uma representação visual da estrutura, facilitando a compreensão do fluxo de dados no sistema.
 
 ### 👀 Veja como ficou o Diagrama EER:
-![Diagrama EER](./assets/img/Modelo%20E-commerce.png)
+![Diagrama EER](Oficina_eer.png)
 
 ## ✨ Conclusão
 
