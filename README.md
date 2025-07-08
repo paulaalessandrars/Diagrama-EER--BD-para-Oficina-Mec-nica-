@@ -1,4 +1,4 @@
-# 🚗 Banco de Dados para Oficina Mecânica 🔧
+# 🚗 Diagrama EER para Banco de Dados de Oficina Mecânica 🔧
 
 ## 📌 Descrição do Projeto
 
